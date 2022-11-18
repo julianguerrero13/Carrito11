@@ -1,4 +1,4 @@
-# carrito11
+# App de compras 11
 
 proyecto #2 del ciclo 4b, grupo 11 de Misión TIC - NRC 2290
 
