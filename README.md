@@ -1,16 +1,4 @@
-# carrito1
+# carrito11
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+proyecto #2 del ciclo 4b, grupo 11 de Misión TIC - NRC 2290
+![carritocompras11](https://user-images.githubusercontent.com/95426901/202595022-aa0e1f41-6484-4b19-9336-0f02f9ea6e65.gif)
